@@ -1,0 +1,26 @@
+Manager
+3
+Human Resources
+Anderson
+McGuire
+Male
+19950712
+1234567890
+15.0
+Single
+416987654
+6478745654
+745 Computer Road
+Manager
+Advanced Degree
+19781213
+andersonmcguire@yahoo.com
+Seyed
+Kami
+Friend
+4168796302
+0
+0
+Salary
+0
+0

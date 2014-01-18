@@ -1,0 +1,26 @@
+Associate
+2
+Human Resources
+Jason
+Li
+Male
+19950712
+1236574555
+15.0
+Single
+4169874565
+6477899514
+1325 Beaver Avenue
+Associate
+Other
+20021112
+jasonli@gmail.com
+David
+Zhang
+Family
+4167415896
+0
+0
+Wage
+3
+0
